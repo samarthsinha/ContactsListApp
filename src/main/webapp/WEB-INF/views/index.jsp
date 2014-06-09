@@ -1,0 +1,1 @@
+<div class="container-fluid navbar btn-info disabled"><span class="btn-block"><a href="index" class="pull-left"><img src="resources/img/png/home.png" width="75px" style="vertical-align:middle;"/></a> <h4 class="btn-block" style="line-height:75px; text-align:center;">${title}</h4></span></div>
